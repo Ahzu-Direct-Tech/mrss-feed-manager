@@ -1,5 +1,5 @@
 ![MRSS Feed Manager for Roku Direct Publisher](video-ads-rss.png)
-# MRSS Feed Manager for Roku Direct Publisher.
+# MRSS Feed Manager for Roku Direct Publisher
 The Roku MRSS Feed Manager is a software tool that helps create and manage your Roku Direct Publisher [MRSS feed](https://developer.roku.com/docs/specs/direct-publisher-feed-specs/mrss-dp-spec.md) file.  Using this tool will allow you to spend less time worrying about the syntactical correctness of your feed file and more time developing your video content.
 
 
