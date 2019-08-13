@@ -8,7 +8,7 @@ The Roku MRSS Feed Manager is a software tool that helps create and manage your 
 # Prerequisites
 * 64 Bit Windows: 7, 8, 10.
 * .Net Framework 4.6.
-* 9MB Free Disk Space.
+* 10MB Free Disk Space.
 * Minimum screen resolution: 1366 X 768.
 
 # Installation
