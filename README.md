@@ -10,6 +10,7 @@ The MRSS Feed Manager for Roku Direct Publisher is a software tool that helps cr
 * .Net Framework 4.6.1
 * 16MB Free Disk Space.
 * Minimum screen resolution: 1366 X 768.
+* Windows Media Player.
 
 # Installation
 Please download the setup file from the latest release.
